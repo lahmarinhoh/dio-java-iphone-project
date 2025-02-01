@@ -1,18 +1,9 @@
-## Getting Started
+## Dio Iphone Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esta é uma implementação simples de um Iphone em Java, onde foi construída a classe Iphone e foram implementadas as interfaces MediaPlayer, Telephone, WebBrowser, AppManager e Camera neste modelo pois definem os contratos a serem seguidos, abrindo a possibilidade de outra(s) classe(s) definir como serão utilizados os recursos.
 
-## Folder Structure
+## UML Diagram
 
-The workspace contains two folders by default, where:
+Abaixo temos o modelo em UML criado para a implementação:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![UML](assets/uml-diagram.png)
